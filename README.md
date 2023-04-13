@@ -9,7 +9,7 @@
 - run `npm install / npm i` to install the node modules.
 - run `npm install nodemon/ npm i nodemon` to install the nodemon.
 - run `npm run start` to start the backend server.
-
+```
 ##Routes- To be Executed with the help of POSTMAN/Thunder Client.
 
 ##### GET
