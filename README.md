@@ -1,6 +1,7 @@
 ## Node Express Todo CRUD App.
 
-### Installation
+### To run Locallly
+##### Installtion Steps
 - Use node version(LTS) should be `v16.16.0`
 - Don't change/override package.json
 - Please make sure you do not push package-lock.json
