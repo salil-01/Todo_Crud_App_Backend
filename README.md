@@ -1,6 +1,6 @@
 ## Node Express Todo CRUD App.
 
-### To run Locallly
+### To run Locallly :- 
 ##### Installtion Steps
 - Use node version(LTS) should be `v16.16.0`
 - Don't change/override package.json
@@ -11,7 +11,7 @@
 - run `npm install nodemon/ npm i nodemon` to install the nodemon.
 - run `npm run start` to start the backend server.
 ```
-### Routes- To be Executed with the help of POSTMAN/Thunder Client.
+### Routes - To be Executed with the help of POSTMAN/Thunder Client.
 
 ##### GET
 - endpoint`/`.
