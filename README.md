@@ -3,7 +3,7 @@
 ### Installation
 - Use node version(LTS) should be `v16.16.0`
 - Don't change/override package.json
-- please make sure you do not push package-lock.json
+- Please make sure you do not push package-lock.json
 
 ```
 - run `npm install / npm i` to install the node modules.
